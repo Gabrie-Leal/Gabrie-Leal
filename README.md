@@ -1,5 +1,21 @@
-Me chamo Gabriel, sou estudante de Ciência da Computação e atualmente estou no 5º período. Estou me dedicando ao aprendizado de desenvolvimento web e criei este portfólio para compartilhar alguns dos meus projetos, tanto individuais quanto desenvolvidos durante o curso Discovery da Rocketseat.
+# 💻 Portfólio de um estudante focado em Front-end
 
-Tenho conhecimento em tecnologias como HTML5, CSS, JavaScript, Java (minha área de maior foco no momento) e noções básicas de Git. Dedico-me diariamente aos estudos para aprimorar minhas habilidades e aprender continuamente.
+Bem-vindo ao meu repositório de projetos! Aqui você encontrará uma coletânea dos meus estudos e experimentos com desenvolvimento web. Os projetos estão organizados conforme minha evolução como desenvolvedor, desde páginas com HTML e CSS puro até aplicações modernas com Vue.js, Vite e Bootstrap.
+Me chamo Gabriel, e atualmente curso Ciência da Computação na UNIFOR-MG. Estou no meu 5° semestre e sou apaixonado por criar páginas web, onde posso explorar minha própria criatividade!
 
-Tenho grande interesse em front-end, mas também valorizo o aprendizado e a prática no back-end, buscando sempre um equilíbrio entre as áreas.
+---
+
+## 🧰 Tecnologias Utilizadas
+
+### Projetos Iniciais
+- HTML5
+- CSS3
+
+### Projetos Mais Recentes
+- Vue.js
+- Vite
+- Bootstrap
+- JavaScript moderno (ES6+)
+
+
+
